@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Akbar Bakhshi and I am a self-taught web and mobile developer based in the USA.
+
+I got into web development in 2019 and finally switched from a Civil Engineering career to a full-time Web developer job in early 2022.
 
 <!--
 **AkbarBakhshi/AkbarBakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
