@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Akbar Bakhshi and I am a self-taught web and mobile developer based in the USA.
 
-I got into web development in 2019 and finally switched from a Civil Engineering career to a full-time Web developer job in early 2022.
+I got into web development in 2018 and finally switched from a Civil Engineering career to a full-time Web developer job in early 2022.
 
 I love helping others like me who are transitioning into tech. That's why I have created two YouTube channles. If you are interested in Frontend Web development libraries, subscribe to my channel <a href='https://www.youtube.com/c/LateNightCoders' aria-label='Late Night Coders YouTube channel' target="_blank">here</a>. 
 
