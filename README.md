@@ -3,7 +3,7 @@ My name is Akbar Bakhshi and I am a self-taught web and mobile developer based i
 
 I got into web development in 2018 and finally switched from a Civil Engineering career to a full-time Web developer job in early 2022.
 
-I love helping others like me who are transitioning into tech. That's why I have created two YouTube channles. If you are interested in Frontend Web development libraries, subscribe to my channel <a href='https://www.youtube.com/channel/UCXTWhQiuHKOWV7HZJEInaNQ' aria-label='React Native Journey YouTube channel' target="_blank">here</a>. 
+I love helping others like me who are transitioning into tech. That's why I have created two YouTube channles. If you are interested in Web and mobile development libraries, subscribe to my channel <a href='https://www.youtube.com/channel/UCXTWhQiuHKOWV7HZJEInaNQ' aria-label='React Native Journey YouTube channel' target="_blank">here</a>. 
 
 Don't forget to follow me on <a href='https://twitter.com/AkBakhshi' aria-label='Akbar bakhshi Twitter' target="_blank">Twitter</a> for tips and tricks related to web development and switching careers to tech.
 
